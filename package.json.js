@@ -6,15 +6,38 @@
 const packageConfig = {
     // 基础说明配置
     name: 'gulp-2b',
-    version: '1.0.0',
+    version: '1.0.1',
     author: 'wujohns',
     description: 'Common Actions For Gulp',
+    homepage: 'https://github.com/CanvasFunny/gulp-2b',
     license: 'MIT',
 
     /**
      * scripts
      */
     scripts: {},
+
+    /**
+     * 代码库
+     */
+    repository: {
+        type: 'git',
+        url: 'https://github.com/CanvasFunny/gulp-2b.git'
+    },
+
+    /**
+     * 关键字
+     */
+    keywords: [
+        'gulp', 'gulp-2b', 'js', 'css', 'less'
+    ],
+
+    /**
+     * bugs
+     */
+    bugs: {
+        url: 'https://github.com/CanvasFunny/gulp-2b/issues'
+    },
 
     engine: {
         node: '>=4.0.0'
