@@ -97,7 +97,7 @@ gulp2b.singleJs({
 
 执行后 `dest` 目录下文件结构：
 
-```
+```javascript
 +--dest
     +--project1
         +-- p1_1.js
@@ -150,7 +150,7 @@ gulp2b.singleLess({
 
 执行后 `dest` 目录下文件结构：
 
-```
+```javascript
 +--dest
     +--header
         +-- h1.less
