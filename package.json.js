@@ -6,7 +6,7 @@
 const packageConfig = {
     // 基础说明配置
     name: 'gulp-2b',
-    version: '1.0.1',
+    version: '1.0.2',
     author: 'wujohns',
     description: 'Common Actions For Gulp',
     homepage: 'https://github.com/CanvasFunny/gulp-2b',

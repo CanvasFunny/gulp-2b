@@ -1,10 +1,9 @@
 /**
  * 对通用处理方法的汇总（可被其他工程使用）
- * Copyright (c) 2015-2016, FineX, All Rights Reserved.
  *
  * gulp 工具类方法
  *
- * @author pool
+ * @author pool(wujohns)
  * @date 16/12/6
  */
 'use strict';
